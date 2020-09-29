@@ -17,6 +17,10 @@ h3,h2, p {
     background-size: cover;
 }
 
+.img-circle {
+    transform: rotate(90deg);
+}
+
 
 /*navbar menu
 *****************************/
