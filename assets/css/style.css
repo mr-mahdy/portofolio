@@ -200,6 +200,7 @@ section p {
     height: 200px;
     background-color: #fff;
     border: 5px solid #fff;
+    transform: rotate(-90deg);
 }
 
 .hobby .row {
