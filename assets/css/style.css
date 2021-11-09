@@ -211,10 +211,7 @@ section p {
 /*Portfolio
 ***************************************/
 .portfolio {
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: #111;
 }
 
 .portfolio img {
@@ -238,7 +235,10 @@ section p {
 /*Contact
 *****************************************/
 .contact {
-    background-color: #111;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .contact label {
@@ -259,10 +259,7 @@ akhir section*/
 footer {
     height: 100px;
     width: 100%;
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: #111;
 }
 
 footer span {
