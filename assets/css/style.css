@@ -50,12 +50,12 @@ h3,h2, p {
     text-transform: uppercase;
 }
 
-#menu ul li a { 
+#top-navbar-1 ul li a { 
     color: #fff; 
     border: 0; 
 }
 
-#menu ul li a:hover { 
+#top-navbar-1 ul li a:hover { 
     color: #ddd; 
     border: 0; 
 }
